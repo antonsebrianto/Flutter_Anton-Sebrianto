@@ -4,7 +4,8 @@
 
 - Compiler dan Interpreter
     > Compiler merupakan software yang digunakan untuk membaca perintah-perintah ke bahasa pemrograman dan mengubahnya ke bahasa lain. Pada compiler, kode sumber nantinya dikonversi menjadi machine code sebelum program dijalankan .
-    >> Interpreter merupakan software yang digunakan untuk membaca perintah-perintah dalam bahasa pemrograman dan menjalankan langsung perintah-perintah tersebut. Pada interpreter, kode sumber nantinya dikonversi menjadi machine code secara langsung ketika program dijalankan.
+    
+    > Interpreter merupakan software yang digunakan untuk membaca perintah-perintah dalam bahasa pemrograman dan menjalankan langsung perintah-perintah tersebut. Pada interpreter, kode sumber nantinya dikonversi menjadi machine code secara langsung ketika program dijalankan.
 
     | Compiler | Interpreter |
     | ------ | ------ |
