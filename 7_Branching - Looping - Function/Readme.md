@@ -1,0 +1,7 @@
+# Resume Materi Branching, Looping, Function
+
+3 Poin yang dipelajari dari materi branching, looping dan function
+
+- Yang menjadi pembeda antara perulangan while dan do while yaitu pada perulangan while akan melakukan perulangan apabila nilai bool bernilai true, jika bool bernilai false maka perulangan while tidak akan terjadi dan tidak akan ada yang tampil. Sedangkan pada perulangan do while akan melakukan perulangan sekali jika nilai bool bernilai false dan akan tampil, akan dilanjutkan perulangan apabila bool bernilai benar.
+- Pada perulangan dapat untuk menghentikan perulangan tanpa lanjut ke perulangan selanjutnya dengan menggunakan perintah Break. Dan pada perulangan juga dapat menghentikan perulangan tetapi tetap lanjut ke perulangan selanjutnya menggunakan perintah Continue, sehingga baris yang diberikan perintah Continue akan di skip.
+- Function merupakan sekumpulan kode yang dapat digunakan secara berulang kali. Sehingga pada pengimplementasiannya tidak perlu untuk menuliskannya berulang kali, cukup dengan memanggil function tersebut. Dan dengan function dapat mempermudah untuk maintenance atau revisi, karena untuk mengubah pada penggunaan function hanya perlu mengubah di functionnya saja dan otomatis penggunaaan function nya akan ikut berubah.
