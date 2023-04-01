@@ -1,0 +1,7 @@
+# Resume Flutter Navigation
+
+3 Poin yang dipelajari dari materi Flutter Navigation
+
+- Flutter Navigation merupakan fitur yang memungkinkan pengembang untuk membuat aplikasi Flutter yang memiliki beberapa layar atau halaman dan memungkinkan pengguna untuk berpindah-pindah antara halaman satu ke halaman lainnya dan menjelajahi aplikasi dengan lebih mudah.
+- Flutter Navigation menyediakan beberapa jenis navigasi, contohnya push, pop, replace, dan lain-lain. Push navigation digunakan untuk berpindah halaman. Pop navigation digunakan untuk kembali ke halaman sebelumnya. Replace navigation digunakan untuk mengganti halaman teratas dari tumpukan navigasi dengan halaman baru.
+- Flutter Navigation dengan Named Routes merupakan cara alternatif untuk melakukan navigasi antar halaman di dalam aplikasi flutter. Dalam metode ini, setiap halaman diberikan sebuah nama unik, dan navigasi dilakukan dengan memanggil nama dari halaman tersebut. Navigasi dapat menggunakan "Navigator.pushNamed()" untuk berganti halaman dengan menambahkan halaman baru ke dalam tumpukan navigasi, "Navigator.pushReplacementNamed()" digunakan untuk berpindah halaman dengan mengganti halaman teratas di dalam tumpukan navigasi dengan halaman baru.
